@@ -7,34 +7,39 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+# [[education.courses]]
+#  course = "DPhil in Planetary Physics, in progress"
+#  institution = "University of Oxford"
+#  year = 2020 
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+# [[education.courses]]
+#  course = "MSci in Physics"
+#  institution = "University of Cambridge"
+#  year = 2016
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+#  course = "BA in Natural Sciences"
+#  institution = "University of Cambridge"
+#  year = 2015
  
 +++
 
-# Biography
+## Bio
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a DPhil student in the Atmospheric, Oceanic, and Planetary Physics Department at the University of Oxford. I work on the atmospheres of exoplanets, with particular interest in the dynamics of their global circulation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+## Research
+
+* Theories of circulation of tidally locked planets
+* Numerical simulations of exoplanet atmospheres
+* Planets such as 55 Cancri e and the Trappist system
+
+## CV
+
+* DPhil Planetary Physics, in progress (University of Oxford)
+* MSci Physics (University of Cambridge)
+* BA Natural Sciences (University of Cambridge)
+
