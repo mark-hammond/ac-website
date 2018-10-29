@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Mark Hammond</title>
+    <link>https://github.com/mark-hammond/mark-hammond.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Mark Hammond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 26 Oct 2018 10:02:32 +0100</lastBuildDate>
+    
+	<atom:link href="https://github.com/mark-hammond/mark-hammond.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wave-Mean Flow Interactions in the Atmospheric Circulation of Tidally Locked Planets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/wave-mean-planets/</link>
+      <pubDate>Fri, 26 Oct 2018 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/wave-mean-planets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmospheric Circulation of Tide-Locked Exoplanets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/tide-locked-review/</link>
+      <pubDate>Sun, 09 Sep 2018 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/tide-locked-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking the Climate and Thermal Phase Curve of 55 Cancri e</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/linking-55cnce/</link>
+      <pubDate>Tue, 10 Oct 2017 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/linking-55cnce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

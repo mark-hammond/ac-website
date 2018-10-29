@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark Hammond</title>
+    <link>https://github.com/mark-hammond/mark-hammond.github.io/post/</link>
+    <description>Recent content in Posts on Mark Hammond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/mark-hammond/mark-hammond.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wave-Mean Flow Interactions in the Atmospheric Circulation of Tidally Locked Planets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/post/wave-mean/</link>
+      <pubDate>Fri, 26 Oct 2018 15:19:18 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/post/wave-mean/</guid>
+      <description>&lt;p&gt;Our paper on wave-mean flow interaction on tidally locked planets has been accepted by ApJ – here’s the preprint!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linking the Climate and Thermal Phase Curve of 55 Cancri e</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/post/55cnce/</link>
+      <pubDate>Thu, 12 Oct 2017 15:19:18 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/post/55cnce/</guid>
+      <description>&lt;p&gt;Our paper on the climate of 55 Cancri e has been accepted by ApJ – here’s the preprint!&lt;/p&gt;
+
+&lt;p&gt;We found that the observations of Demory (2016) did not rule out an atmosphere, and that our GCM results could be consistent given an atmosphere of several bar, a mean-molecular weight of about 5 g/mol, and cloud formation high on the night-side.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

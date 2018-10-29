@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Hammond on Mark Hammond</title>
+    <link>https://github.com/mark-hammond/mark-hammond.github.io/</link>
+    <description>Recent content in Mark Hammond on Mark Hammond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/mark-hammond/mark-hammond.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wave-Mean Flow Interactions in the Atmospheric Circulation of Tidally Locked Planets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/post/wave-mean/</link>
+      <pubDate>Fri, 26 Oct 2018 15:19:18 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/post/wave-mean/</guid>
+      <description>&lt;p&gt;Our paper on wave-mean flow interaction on tidally locked planets has been accepted by ApJ – here’s the preprint!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was mostly prompted by two fantastic papers, &lt;a href=&#34;https://www.lpl.arizona.edu/~showman/publications/showman-polvani-2011.pdf&#34; target=&#34;_blank&#34;&gt;Showman (2011)&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/pdf/1405.0003.pdf&#34; target=&#34;_blank&#34;&gt;Tsai (2014)&lt;/a&gt;, which used shallow-water models to understand the global atmospheric circulation of tidally locked exoplanets (one side always faces the star it orbits).&lt;/p&gt;
+
+&lt;p&gt;GCM simulations of these planets look something like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/mark-hammond/mark-hammond.github.io/img/gcm-sim.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The problem is that this doesn`t look much like the shallow-water model that should correspond to a tidally locked planet (&lt;a href=&#34;http://employees.oneonta.edu/ellistd/meteorology/matsuno1966.pdf&#34; target=&#34;_blank&#34;&gt;Matsuno (1966)&lt;/a&gt;). Here is the response to forcing in zero background flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/mark-hammond/mark-hammond.github.io/img/ps-no-flow.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hot spot is in the wrong place compared to the GCM, as are the cold lobes at high latitudes.&lt;/p&gt;
+
+&lt;h3 id=&#34;effect-of-equatorial-jet&#34;&gt;Effect of Equatorial Jet&lt;/h3&gt;
+
+&lt;p&gt;The key thing missing from this solution is the equatorial jet that forms on these planets (&lt;a href=&#34;https://www.lpl.arizona.edu/~showman/publications/showman-polvani-2011.pdf&#34; target=&#34;_blank&#34;&gt;Showman (2011)&lt;/a&gt;). &lt;a href=&#34;https://arxiv.org/pdf/1405.0003.pdf&#34; target=&#34;_blank&#34;&gt;Tsai (2014)&lt;/a&gt; showed that a uniform flow could shift the waves making up this pattern eastwards.&lt;/p&gt;
+
+&lt;p&gt;We changed this to a non-uniform jet on the equator, and added the fact it is balanced by a pressure perturbation. Here is the respose in a shear background flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/mark-hammond/mark-hammond.github.io/img/ps-shear-flow.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This matches the GCM simulations at the top better. The nice thing about this method was that we were solving one set of equations for one solution, rather than previously where I had summed different solutions together.&lt;/p&gt;
+
+&lt;h3 id=&#34;scaling-laws&#34;&gt;Scaling Laws&lt;/h3&gt;
+
+&lt;p&gt;We also solved the problem in a spherical geometry, rather than on the mathematically nice beta-plane approximation. This matches the GCM output more closely, and represents the rotation rate better.&lt;/p&gt;
+
+&lt;p&gt;This meant we could show the effect of different parameters on the solution. For example, a slow planetary rotation rate looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/mark-hammond/mark-hammond.github.io/img/sp-g-30.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and a fast rotation rate looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/mark-hammond/mark-hammond.github.io/img/sp-g-003.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The main difference is caused by the fact that the pressure perturbation from the jet is linearly proportional to the rotation rate. We look at a few more ways the parameters affect the circulation in the paper.&lt;/p&gt;
+
+&lt;p&gt;We were prompted to understand this circulation better when trying to interpret the phase curve of 55 Cancri e. This sort of model could be useful for observers trying to interpret different phase curves and eclipse maps.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wave-Mean Flow Interactions in the Atmospheric Circulation of Tidally Locked Planets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/wave-mean-planets/</link>
+      <pubDate>Fri, 26 Oct 2018 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/wave-mean-planets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmospheric Circulation of Tide-Locked Exoplanets</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/tide-locked-review/</link>
+      <pubDate>Sun, 09 Sep 2018 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/tide-locked-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking the Climate and Thermal Phase Curve of 55 Cancri e</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/post/55cnce/</link>
+      <pubDate>Thu, 12 Oct 2017 15:19:18 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/post/55cnce/</guid>
+      <description>&lt;p&gt;Our paper on the climate of 55 Cancri e has been accepted by ApJ – here’s the preprint!&lt;/p&gt;
+
+&lt;p&gt;We found that the observations of Demory (2016) did not rule out an atmosphere, and that our GCM results could be consistent given an atmosphere of several bar, a mean-molecular weight of about 5 g/mol, and cloud formation high on the night-side.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Another paper on 55 Cancri e also appeared at the same time – “A Case for an Atmosphere on Super-Earth 55 Cancri e”. This is great as we’re (obviously) interested in the possbility of an atmosphere! It looks like we may have reached some similar conclusions by approaching the problem in different ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linking the Climate and Thermal Phase Curve of 55 Cancri e</title>
+      <link>https://github.com/mark-hammond/mark-hammond.github.io/publication/linking-55cnce/</link>
+      <pubDate>Tue, 10 Oct 2017 10:02:32 +0100</pubDate>
+      
+      <guid>https://github.com/mark-hammond/mark-hammond.github.io/publication/linking-55cnce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
